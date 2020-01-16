@@ -3,12 +3,12 @@
 > ˝Reference examples to help validate UI/UX pattern ideas˝  
 > — [Steve Schoger](https://twitter.com/steveschoger)
 
-This collection of bookmarks is a list made by [Steve Schoger](https://twitter.com/steveschoger) in these tweets:
+The initial collection of bookmarks was made by [Steve Schoger](https://twitter.com/steveschoger) in these tweets:
 
 - https://twitter.com/steveschoger/status/1215673997725196288
 - https://twitter.com/steveschoger/status/1216412188849725441
 
-All credits go to him and the ones who contributed to the list. Bookmarks sorted alphabetically.
+Credits go to him and the ones who contributed to the list. Bookmarks are sorted alphabetically.
 
 ## Bookmarks
 
