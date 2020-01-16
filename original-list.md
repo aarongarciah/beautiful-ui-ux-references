@@ -30,7 +30,7 @@ This is the original list made by [Steve Schoger](https://twitter.com/steveschog
 - [<img src="images/linear.png" width="18" />&nbsp; Linear](https://linear.app)
 - [<img src="images/marvel.png" width="18" />&nbsp; Marvel](https://marvelapp.com)
 - [<img src="images/mention.png" width="18" />&nbsp; Mention](https://mention.com)
-- [<img src="images/mixpanel.png" width="18" />&nbsp; Mixpanel](https://mixpanel.com)
+- [<img src="images/mix-panel.png" width="18" />&nbsp; Mixpanel](https://mixpanel.com)
 - [<img src="images/netlify.png" width="18" />&nbsp; Netlify](https://www.netlify.com)
 - [<img src="images/notion.png" width="18" />&nbsp; Notion](https://www.notion.so)
 - [<img src="images/opendoor.png" width="18" />&nbsp; Opendoor](https://www.opendoor.com)
