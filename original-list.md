@@ -1,7 +1,9 @@
-# Beautiful UI/UX References
+# Original List of Beautiful UI/UX References
 
-> [˝Reference examples to help validate UI/UX pattern ideas˝](https://twitter.com/steveschoger/status/1215673997725196288)  
-> — [Steve Schoger](https://twitter.com/steveschoger)
+This is the original list made by [Steve Schoger](https://twitter.com/steveschoger).
+
+[![](images/original-tweet-1.png)](https://twitter.com/steveschoger/status/1215673997725196288)
+[![](images/original-tweet-2.png)](https://twitter.com/steveschoger/status/1216412188849725441)
 
 ## Bookmarks
 
@@ -51,18 +53,3 @@
 - [<img src="images/wealthbar.png" width="18" />&nbsp; WealthBar](https://www.wealthbar.com)
 - [<img src="images/workable.png" width="18" />&nbsp; Workable](https://www.workable.com)
 - [<img src="images/zeit.png" width="18" />&nbsp; Zeit](https://www.zeit.co)
-
-## Credits
-
-The initial collection of bookmarks was made by [Steve Schoger](https://twitter.com/steveschoger) and shared in these tweets:
-
-- https://twitter.com/steveschoger/status/1215673997725196288
-- https://twitter.com/steveschoger/status/1216412188849725441
-
-Credits go to him and the ones who contributed to the list. Bookmarks are sorted alphabetically.
-
-Check the [original colletion](original-list.md).
-
-## Contributing
-
-You can suggest new bookmarks by opening a pull request. Remember to explain why it should be added and sort the bookmarks alphabetically.
